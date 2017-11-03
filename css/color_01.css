@@ -46,16 +46,16 @@ a:hover,a:active{
 
 .owl-theme .owl-controls .owl-buttons div,
 .owl-theme .owl-controls .owl-page span{
-    background: #007447;
+    background: #051d3e;
 }
 #main-navigation .sub-menu:after{
-    border-bottom-color: #007447;
+    border-bottom-color: #051d3e;
 }
 #main-navigation.scrolled nav a { 
-    color: #007447;
+    color: #051d3e;
 }
 #main-navigation.scrolled nav li.menu-alt a{
-    background: #007447;
+    background: #051d3e;
 }
 .video-overlay{
     background-image: linear-gradient(to bottom, rgba(36, 57, 76, 0.8), rgba(36, 57, 76, 0.8));
@@ -86,61 +86,61 @@ a:hover,a:active{
     background-position: center center;
 }
 #testimonials figure.testimonial-card .author span {
-    color: #007447;
+    color: #051d3e;
 
 }
 .full-width-tabs > ul.nav.nav-tabs > li > a:before,
 .full-width-tabs > ul.nav.nav-tabs > li > a:after{
-    border-bottom: 12px solid #007447;
-    border-bottom: 12px solid #007447;
+    border-bottom: 12px solid #051d3e;
+    border-bottom: 12px solid #051d3e;
 }
 .full-width-tabs > ul.nav.nav-tabs > li.active > a,
 .full-width-tabs > ul.nav.nav-tabs > li > a:hover{
-    background: #007447;
+    background: #051d3e;
 }
 .panel-default > .panel-heading {
-    background-color: #007447;
+    background-color: #051d3e;
 }
 #faq-categories .nav-pills > li.active > a, 
 #faq-categories .nav-pills > li.active > a:hover, 
 #faq-categories .nav-pills > li.active > a:focus {
-    border-left: 3px solid #007447;
+    border-left: 3px solid #051d3e;
 }
 /*COMING SOON*/
 .newsletter_wrap {
-    border:4px solid #007447;
+    border:4px solid #051d3e;
 }
 #mc-embedded-subscribe {
-    background-color:#007447;
+    background-color:#051d3e;
 
 }
 .blog-card .details a:hover {
-    color: #007447;
+    color: #051d3e;
 }
 .blog-card .description p:after {
-    background: #007447;
+    background: #051d3e;
 }
 .blog-card .description a {
-    color: #007447;
+    color: #051d3e;
 }
 .blog-meta span i{
-    color: #007447;
+    color: #051d3e;
 }
 #custom-search-input button {
-    color:#007447;
+    color:#051d3e;
 }
 .pricing-content .type {
-    background-color: #007447;
+    background-color: #051d3e;
 }
 .pricing-content .price {
-    background-color: #007447;
+    background-color: #051d3e;
 }
 .modal-header{
-    background-color: #007447 !important;
+    background-color: #051d3e !important;
 }
 /*BUTTON DEPTH COLOR*/
 .btn-theme-primary:hover,.btn-theme-primary:active,.btn-theme-primary:focus{
-    background: #007447;
+    background: #051d3e;
     color: #fff;
     transition: all 0.3s ease-in-out 0s;
 
